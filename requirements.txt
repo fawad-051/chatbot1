@@ -4,3 +4,4 @@ ipykernel
 pandas
 groq
 PyPDF2
+docx
