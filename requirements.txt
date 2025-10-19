@@ -3,3 +3,4 @@ python-dotenv
 ipykernel
 pandas
 groq
+PyPDF2
